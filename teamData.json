@@ -1,0 +1,161 @@
+{
+    "leader": [
+      {
+        "name": "Muhammad Muflih Ar Rizqi",
+        "position": "Ketua Umum",
+        "image": "img/foto-ketua.jpg",
+        "socialLinks": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "name": "Maysa Nadila Harahap",
+        "position": "Sekretaris",
+        "image": "img/foto-sekretaris.jpg",
+        "socialLinks": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "name": "Syalsabilah",
+        "position": "Bendahara",
+        "image": "img/foto-bendahara.jpg",
+        "socialLinks": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#"
+        }
+      }
+    ],
+    "members": [
+      {
+        "name": "M. Ammar",
+        "position": "Wakil Ketua"
+      },
+      {
+        "name": "Mayra Yasmin Nadiya",
+        "position": "Wakil Sekretaris"
+      },
+      {
+        "name": "Ridho Handoko",
+        "position": "Wakil Bendahara"
+      },
+      {
+        "name": "Nazwa Febiola",
+        "position": "Kadiv Keputrian"
+      },
+      {
+        "name": "Rajendra Athallah Fawwaz",
+        "position": "Kadiv Humas"
+      },
+      {
+        "name": "M. Zhafran Syah Lubis",
+        "position": "Kadiv Olahraga"
+      },
+      {
+        "name": "Sakila",
+        "position": "Kadiv Kewirausahaan"
+      },
+      {
+        "name": "M. Dzaky Hibrizi",
+        "position": "Kadiv Pendidikan & Dakwah"
+      },
+      {
+        "name": "Rasikah Tevy Anaira",
+        "position": "Divisi Medinkom"
+      },
+      {
+        "name": "Iszmi Indri Yanti",
+        "position": "Divisi Humas"
+      },
+      {
+        "name": "Silvira Annisa",
+        "position": "Divisi Humas"
+      },
+      {
+        "name": "Mhd. Aditya Syahputra",
+        "position": "Divisi Humas"
+      },
+      {
+        "name": "Muhammad Hanif",
+        "position": "Divisi Humas"
+      },
+      {
+        "name": "Rizky Dwi Ananda",
+        "position": ""
+      },
+      {
+        "name": "Harika Hasibuan",
+        "position": ""
+      },
+      {
+        "name": "Rafa Aditya Pratama Sormin",
+        "position": ""
+      },
+      {
+        "name": "Salsa Nabila",
+        "position": ""
+      },
+      {
+        "name": "Uwais Mughbil Arief",
+        "position": ""
+      },
+      {
+        "name": "Andika Rahmansyah",
+        "position": ""
+      },
+      {
+        "name": "Raffy Agara",
+        "position": ""
+      },
+      {
+        "name": "Ahmadinejad Zarkasyi",
+        "position": ""
+      },
+      {
+        "name": "Khairunnisa",
+        "position": ""
+      },
+      {
+        "name": "Anggiana Fadhillah",
+        "position": ""
+      },
+      {
+        "name": "Kesya Putri",
+        "position": ""
+      },
+      {
+        "name": "Weldy Satriya",
+        "position": ""
+      },
+      {
+        "name": "Muhammad Ulul Azmi",
+        "position": ""
+      },
+      {
+        "name": "Aisyah Rizwana Zahra",
+        "position": ""
+      },
+      {
+        "name": "Luthfi Mauval Arief",
+        "position": ""
+      },
+      {
+        "name": "M. Rizky Fadilah",
+        "position": ""
+      },
+      {
+        "name": "Prita Nur Laura",
+        "position": ""
+      },
+      {
+        "name": "Muhammad Aldino",
+        "position": ""
+      }
+    ]
+  }
+  
